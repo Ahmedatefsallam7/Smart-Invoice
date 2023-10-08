@@ -35,9 +35,11 @@ Welcome to Smart Invoice! This invoicing system is designed to streamline your b
 
 2. **Edit an Invoice:**
    - Navigate to the "Edit" section, select the desired invoice, and make the necessary changes.
-
-3. **Payment Management:**
+   - 
+4. **Payment Management:**
    - Use the "Mark as Paid" or "Mark as Partially Paid" options to manage invoice payments.
 
-4. **Print Invoices:**
+5. **Print Invoices:**
    - Select an invoice and choose the "Print as PDF" or "Print as Excel" option for easy document generation.
+  
+https://github.com/Ahmedatefsallam7/Smart-Invoice/assets/111317503/d43cc8ef-3048-48a9-b35a-a42081fe8369
